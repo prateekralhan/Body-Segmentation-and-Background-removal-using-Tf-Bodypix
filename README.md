@@ -1,4 +1,5 @@
-# Body Segmentation and background removal using Tf Bodypix 👯 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+# Body Segmentation and background removal using Tf Bodypix 👯 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 ![tensorflow-logo](https://user-images.githubusercontent.com/29462447/116670987-094f3b80-a9be-11eb-8ec8-f676ef5b94e5.png)
 
 BodyPix is a pre-trained model that allows you to segment your body from nothing but an image. Now, normally it’s only available through Tensorflow.Js but the tf_bodypix library allows you to leverage it through OpenCV and Python. This script helps you achieve the same 😄
